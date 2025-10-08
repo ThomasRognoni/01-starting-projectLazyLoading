@@ -1,6 +1,5 @@
-import { Component, OnInit, inject, input } from '@angular/core';
+import { Component, inject, input } from '@angular/core';
 import {
-  ActivatedRoute,
   ActivatedRouteSnapshot,
   ResolveFn,
   RouterLink,
